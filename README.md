@@ -1,6 +1,6 @@
 # Como Programar - Java 8
 
-![Java 8](img/java.jpg)
+![Java 8](img/ebook-java.png)
 
 # Indice
 
