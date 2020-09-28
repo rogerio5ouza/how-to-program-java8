@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="573541d3-c031-4510-8478-1a7fbb81276c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Capitulo-2-Introducao-app-java/Welcome1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Capitulo-2-Introducao-app-java/Welcome2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +40,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rogerio\Documents\GitHub\how-to-program-java8\src\Capitulo-2-Introducao-app-java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Welcome1">
     <configuration name="Welcome1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Welcome1" />
+      <module name="how-to-program-java8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Welcome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Welcome2" />
       <module name="how-to-program-java8" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,6 +63,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Welcome1" />
+        <item itemvalue="Application.Welcome2" />
       </list>
     </recent_temporary>
   </component>
@@ -75,5 +88,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1601255036385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601255036385" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1601255036384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601255036384" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1601255036384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601255036384" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1601255036385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601255036385" />
   </component>
 </project>
