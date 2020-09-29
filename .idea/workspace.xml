@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="573541d3-c031-4510-8478-1a7fbb81276c" name="Default Changelist" comment="" />
+    <list default="true" id="573541d3-c031-4510-8478-1a7fbb81276c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Capitulo-2-Introducao-app-java/Product.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
